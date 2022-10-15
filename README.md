@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="30%" height="auto" src="http://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1" height="175px"/></a>
+  <a href="#"><img width="30%" height="auto" src="https://photos.app.goo.gl/mdkwEF6n5XbhoZdz7" height="175px"/></a>
 </p>
 
 
