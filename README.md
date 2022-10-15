@@ -11,7 +11,9 @@
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
 - 🚀 I’m currently learning HTML, CSS and NodeJs
 - 🎮 I'm interested in RPG games
-- 📫 Contact me: **overlimit090@gmail.com**
+- 📫 Contact me: 
+-- **overlimit090@gmail.com**
+-- **overlimit090@gmail.com**
 - 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - ⚡ Fun fact: I like read novel and listen to music every night!
 
