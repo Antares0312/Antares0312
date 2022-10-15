@@ -1,17 +1,16 @@
 ### Hi there 👋
 
+
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/4103898/screenshots/10500128/p5_4x.jpg"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
+<h3 align="center">I'm a bachelor of computer science.</h3>
+
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying on UIT
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
 - 🚀 I’m currently learning HTML, CSS
 - ⚡ Fun fact: I like read novel and listen to music every night!
--->
-
-<a href="#"><img width="100%" height="auto" src="https://avatars.githubusercontent.com/u/102322916?s=200&v=4"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
-<h3 align="center">I'm a bachelor of computer science.</h3>
-
 
 
 ## 🚀 Languages and Tools:
