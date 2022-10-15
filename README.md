@@ -11,9 +11,8 @@
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
 - 🚀 I’m currently learning HTML, CSS and NodeJs
 - 🎮 I'm interested in RPG games
-- 📫 Contact me: 
-+ **overlimit090@gmail.com**
-+ **20521776@gm.uit.edu.vn**
+- 📫 Contact me: **overlimit090@gmail.com**
+- 📞 Phone number:+8486805129 (+84:vietnam) 
 - 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - ⚡ Fun fact: I like read novel and listen to music every night!
 
