@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="https://drive.google.com/file/d/12GdSK5naNRnJHYQiNnjDZ6qPYEE5XkbQ/view?usp=sharing"/></a>
+<a href="#"><img width="100%" height="auto" src="http://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
 <h3 align="center">I'm a bachelor of computer science.</h3>
 
@@ -20,9 +20,9 @@
 
 ## Connect with me:
 <p align="left">
-[Facebook]([https://youtu.be/2yQqg_mXuPQ](https://www.facebook.com/Antares.XT))
-[Github]([https://youtu.be/2yQqg_mXuPQ](https://github.com/Antares3102))
-[Twitch]([https://youtu.be/2yQqg_mXuPQ](https://www.twitch.tv/antares_31022))
+- [Facebook]([https://youtu.be/2yQqg_mXuPQ](https://www.facebook.com/Antares.XT))
+- [Github]([https://youtu.be/2yQqg_mXuPQ](https://github.com/Antares3102))
+- [Twitch]([https://youtu.be/2yQqg_mXuPQ](https://www.twitch.tv/antares_31022))
 
 
 </p>
