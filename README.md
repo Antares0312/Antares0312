@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying on UIT
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
-- 🚀 I’m currently learning HTML, CSS
+- 🚀 I’m currently learning HTML, CSS and NodeJs
 - ⚡ Fun fact: I like read novel and listen to music every night!
 
 
