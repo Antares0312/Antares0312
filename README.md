@@ -12,8 +12,8 @@
 - 🚀 I’m currently learning HTML, CSS and NodeJs
 - 🎮 I'm interested in RPG games
 - 📫 Contact me: 
-* **overlimit090@gmail.com**
-* **20521776@gm.uit.edu.vn**
++ **overlimit090@gmail.com**
++ **20521776@gm.uit.edu.vn**
 - 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - ⚡ Fun fact: I like read novel and listen to music every night!
 
