@@ -12,7 +12,7 @@
 - 🚀 I’m currently learning HTML, CSS and NodeJs
 - 🎮 I'm interested in RPG games
 - 📫 Contact me: **overlimit090@gmail.com**
-- 📞 Phone number:+8486805129 (+84:vietnam) 
+- 📞 Phone number: +8486805129 
 - 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - ⚡ Fun fact: I like read novel and listen to music every night!
 
