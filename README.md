@@ -20,7 +20,7 @@
 ## 📊 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antares3102)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antares3102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Antares3102)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me:
 - [Facebook](https://www.facebook.com/Antares.XT)
 - [Github](https://github.com/Antares3102)
