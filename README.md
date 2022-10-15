@@ -26,7 +26,7 @@
 
 <a href = "https://www.facebook.com/Antares.XT"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png"/></a>
 <a href = "https://github.com/Antares3102"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png"/></a>
-<a href = "https://www.twitch.tv/antares_31022"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-256.png"/></a>
+<a href = "https://www.twitch.tv/antares_31022"><img src="![image](https://user-images.githubusercontent.com/79294017/195973030-61aca326-f927-4a35-a47b-258fed92c866.png)"/></a>
 
 
 </p>
