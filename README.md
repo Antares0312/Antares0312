@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="https://ibb.co/ZKg5HLb" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://github.com/Antares3102/Antares3102/blob/main/ITainment.png" height="175px"/></a>
 </p>
 
 
@@ -21,11 +21,8 @@
 
 
 ## Connect with me:
-<p align="left">
 - [Facebook]([https://youtu.be/2yQqg_mXuPQ](https://www.facebook.com/Antares.XT))
 - [Github]([https://youtu.be/2yQqg_mXuPQ](https://github.com/Antares3102))
 - [Twitch]([https://youtu.be/2yQqg_mXuPQ](https://www.twitch.tv/antares_31022))
 
-
-</p>
 
