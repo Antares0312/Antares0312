@@ -4,14 +4,17 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
-<h3 align="center">I'm a bachelor of computer science.</h3>
+<h3 align="center">I'm a Bachelor of Computer Science.</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn/)
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
 - 🚀 I’m currently learning HTML, CSS and NodeJs
+- 🎮 I'm interested in RPG games
 - 📫 Contact me: **overlimit090@gmail.com**
+- 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - ⚡ Fun fact: I like read novel and listen to music every night!
+
 
 
 ## 🚀 Languages and Tools:
