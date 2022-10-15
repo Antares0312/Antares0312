@@ -24,9 +24,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.facebook.com/Antares.XT"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png"/></a>
-<a href = "https://github.com/Antares3102"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png"/></a>
-<a href = "https://www.twitch.tv/antares_31022"><img src="![image](https://user-images.githubusercontent.com/79294017/195973030-61aca326-f927-4a35-a47b-258fed92c866.png)"/></a>
+<a href = "https://www.facebook.com/Antares.XT"><img src="http://www.h1unlimited.com/wp-content/uploads/2018/03/facebook-logo-200x200.png"/></a>
+<a href = "https://github.com/Antares3102"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnzzDxwcklqTsT6Vk_HRoqnvCxXgOnrGcvw&usqp=CAU"/></a>
+<a href = "[https://www.twitch.tv/antares_31022"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png"/></a>
 
 
 </p>
