@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="http://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
+<a href="#"><img width="30%" height="auto" src="http://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"/></a>
 <h3 align="center">I'm a bachelor of computer science.</h3>
 
 ## 🙋‍♂️ About Me
