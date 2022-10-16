@@ -31,7 +31,7 @@
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="50"/> </a> </p>
 
-<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Scrapy_logo.jpg/640px-Scrapy_logo.jpg" alt="scrapy" width="100" height="40"/> </a> </p>
+<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Scrapy_logo.jpg/640px-Scrapy_logo.jpg" alt="scrapy" width="130" height="40"/> </a> </p>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
