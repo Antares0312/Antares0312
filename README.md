@@ -47,7 +47,7 @@
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Csharp_Logo.png/640px-Csharp_Logo.png" alt="csharp" width="80" height="80"/> </a> 
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/640px-Ubuntu-logo-2022.svg.png" alt="ubuntu" width="40" height="40"/> </a> 
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" alt="sqlserver" width="120" height="30"/> </a> 
 
