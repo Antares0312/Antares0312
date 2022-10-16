@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://i.imgur.com/R98Vzzx.png" alt="Nature" class="responsive"/></a>
+  <div class="responsive">
+    <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://i.imgur.com/R98Vzzx.png"/></a>
 </p>
-.responsive {
-  max-width: 100%;
-  height: auto;
-}
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antares</h1>
 <h3 align="center">I'm a Bachelor of Computer Science.</h3>
@@ -49,5 +47,5 @@
 - [Twitch](https://www.twitch.tv/antares_31022)
 
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="50%" height="auto" src="https://i.imgur.com/UhjXgRw.png" height="175px"/></a>
+  <a href="https://github.com/ITainment-UIT-04"><img width="50%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
 </p>
