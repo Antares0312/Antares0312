@@ -8,8 +8,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying on [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
-- 🦾 I’m currently learning Machine Learning and Deep Learning
-- 🤖 I’m currently learning Artificial intelligence
+- 🤖 I’m currently learning Machine Learning, AI and Deep Learning
 - 🌱 I’m currently learning HTML, CSS, NodeJS and JavaScript
 - 🎮 I'm interested in RPG games
 - 📫 Contact me: **overlimit090@gmail.com**
