@@ -50,6 +50,7 @@
 - [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=241195172)
 - [Twitch](https://www.twitch.tv/antares_31022)
 - [Discord](https://discord.gg/ZGc3sSJf)
+- [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
 <p align="center">
   <a href="https://github.com/ITainment-UIT-04"><img width="50%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
