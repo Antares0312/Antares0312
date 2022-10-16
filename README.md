@@ -46,5 +46,5 @@
 - [Twitch](https://www.twitch.tv/antares_31022)
 
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://i.imgur.com/UhjXgRw.png" height="175px"/></a>
+  <a href="https://github.com/ITainment-UIT-04"><img width="70%" height="auto" src="https://i.imgur.com/UhjXgRw.png" height="175px"/></a>
 </p>
