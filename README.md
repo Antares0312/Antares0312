@@ -41,6 +41,10 @@
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" alt="c" width="40" height="40"/> </a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Csharp_Logo.png/640px-Csharp_Logo.png" alt="csharp" width="40" height="40"/> </a> 
+
 
 ## 📊 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antares3102)](https://github.com/anuraghazra/github-readme-stats)
