@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" alt="numpy" width="80" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" alt="numpy" width="100" height="40"/> </a>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 
@@ -29,9 +29,9 @@
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="40"/> </a> </p>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="50"/> </a> </p>
 
-<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Scrapy_logo.jpg/640px-Scrapy_logo.jpg" alt="scrapy" width="40" height="40"/> </a> </p>
+<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Scrapy_logo.jpg/640px-Scrapy_logo.jpg" alt="scrapy" width="100" height="40"/> </a> </p>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
