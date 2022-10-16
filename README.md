@@ -43,7 +43,7 @@
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" alt="c" width="40" height="40"/> </a>
 
-<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="50"/> </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Csharp_Logo.png/640px-Csharp_Logo.png" alt="csharp" width="80" height="80"/> </a> 
 
