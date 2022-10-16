@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="25%" height="auto" src="https://i.imgur.com/R98Vzzx.png" height="175px"/></a>
+  <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://i.imgur.com/R98Vzzx.png" height="175px"/></a>
 </p>
 
 
