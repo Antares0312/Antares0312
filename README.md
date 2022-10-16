@@ -42,8 +42,14 @@
   
 ## Connect with me:
 - [Facebook](https://www.facebook.com/Antares.XT)
+- [Instagram](https://www.instagram.com/antares.31)
 - [Github](https://github.com/Antares3102)
+- [Linkedin](https://www.linkedin.com/in/mai-v%C4%83n-thi%C3%AAn-ph%C6%B0%E1%BB%9Bc-67489a243/)
+- [Reddit](https://www.reddit.com/user/Amphere-XT)
+- [Pinterest](https://www.pinterest.com/overlimit090)
+- [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=241195172)
 - [Twitch](https://www.twitch.tv/antares_31022)
+- [Discord](https://discord.gg/ZGc3sSJf)
 
 <p align="center">
   <a href="https://github.com/ITainment-UIT-04"><img width="50%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
