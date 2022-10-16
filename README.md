@@ -7,7 +7,7 @@
 <h3 align="center">I'm a Bachelor of Computer Science.</h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently studying on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn/)
+- 🔭 I’m currently studying on [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
 - 🌱 I’m currently learning Machine Learning, AI and Deep Learning
 - 🚀 I’m currently learning HTML, CSS and NodeJs
 - 🎮 I'm interested in RPG games
