@@ -14,7 +14,7 @@
 - 📫 Contact me: **overlimit090@gmail.com**
 - 📞 Phone number: +8486805129 
 - 🏢 My organization: [ITainment](https://github.com/ITainment-UIT-04)
-- ⚡ Fun fact: I like read novel and listen to music every night!
+- ⚡ Fun fact: I'm interested in reading novels and listening to music every night!
 
 
 
