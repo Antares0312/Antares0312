@@ -49,7 +49,7 @@
 - [Pinterest](https://www.pinterest.com/overlimit090)
 - [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=241195172)
 - [Twitch](https://www.twitch.tv/antares_31022)
-- [Discord](https://discord.gg/ZGc3sSJf)
+- [Discord](https://discord.gg/wv3YjdwW)
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
 <p align="center">
