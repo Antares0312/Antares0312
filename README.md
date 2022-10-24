@@ -4,7 +4,7 @@
 
 
 <h1 align="center">I'm Antares </h1>
-<h1 align="center">Bachelor of Computer Science.</h1>
+<h2 align="center">*Bachelor of Computer Science.*</h2>
 
 ## **※ About Me**
 - I’m currently studying on [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
@@ -53,5 +53,5 @@
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="70%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
+  <a href="https://github.com/ITainment-UIT-04"><img width="60%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
 </p>
