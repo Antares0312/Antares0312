@@ -23,17 +23,10 @@
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/640px-Ubuntu-logo-2022.svg.png" alt="ubuntu" width="120" height="38"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" alt="sqlserver" width="136" height="40"/> </a> 
 
-
 ## **※ My Github Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antares3102)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antares3102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-    <a href="https://github.com/Antares3102/Antares3102"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mitul3737&theme=light"/></a>
-</p>
-
-  
-  
+ 
 ## **※ Connect with me**
 - [Facebook](https://www.facebook.com/Antares.XT)
 - [Instagram](https://www.instagram.com/antares.31)
