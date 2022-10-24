@@ -4,7 +4,7 @@
 
 
 <h1 align="center">I'm Antares </h1>
-<h2 align="center">*Bachelor of Computer Science.*</h2>
+<h2 align="center">_Bachelor of Computer Science._</h2>
 
 ## **※ About Me**
 - I’m currently studying on [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
