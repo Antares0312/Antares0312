@@ -34,9 +34,9 @@
 - [Linkedin](https://www.linkedin.com/in/mai-v%C4%83n-thi%C3%AAn-ph%C6%B0%E1%BB%9Bc-67489a243/)
 - [Reddit](https://www.reddit.com/user/Amphere-XT)
 - [Pinterest](https://www.pinterest.com/overlimit090)
-- [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=241195172)
+- [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=293826106)
 - [Twitch](https://www.twitch.tv/antares_31022)
-- [Discord](https://discord.gg/wv3YjdwW)
+- [Discord](https://discord.gg/HPUBuTGk)
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
 <p align="center">
