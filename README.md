@@ -7,11 +7,12 @@
 <h2 align="center">✓ Bachelor of Computer Science.</h2>
 
 ## **※ About Me**
-- I’m currently studying on [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
+- I'm currently studying at [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
+- I studied at [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
 - I’m currently learning Machine Learning, AI and Deep Learning
 - I’m currently learning HTML, CSS, NodeJS and JavaScript
 - I'm interested in RPG games
-- Contact me: **overlimit090@gmail.com**
+- Contact me: **overlimit090@gmail.com** or **thienphuoc.antares@gmail.com**
 - Phone number: +8486805129 
 - My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - Fun fact: I'm interested in reading novels and listening to music every night!
@@ -34,7 +35,6 @@
 - [Linkedin](https://www.linkedin.com/in/mai-v%C4%83n-thi%C3%AAn-ph%C6%B0%E1%BB%9Bc-67489a243/)
 - [Reddit](https://www.reddit.com/user/Amphere-XT)
 - [Pinterest](https://www.pinterest.com/overlimit090)
-- [HoYoLab](https://www.hoyolab.com/accountCenter/postList?id=293826106)
 - [Twitch](https://www.twitch.tv/antares_31022)
 - [Discord](https://discord.gg/HPUBuTGk)
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
