@@ -13,7 +13,7 @@
 - I’m currently learning HTML, CSS, NodeJS and JavaScript
 - I'm interested in RPG games
 - Contact me: **overlimit090@gmail.com** or **thienphuoc.antares@gmail.com**
-- Phone number: +8486805129 
+- Phone number: +61493766471 
 - My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - Fun fact: I'm interested in reading novels and listening to music every night!
 
