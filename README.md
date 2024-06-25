@@ -39,6 +39,4 @@
 - [Discord](https://discord.gg/HPUBuTGk)
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
-(<p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="60%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
-</p>)
+
