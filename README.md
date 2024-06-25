@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">I'm Antares </h1>
+<h1 align="center">I'm Lucas</h1>
 <h2 align="center">✓ Bachelor of Computer Science.</h2>
 
 ## **※ About Me**
@@ -39,6 +39,6 @@
 - [Discord](https://discord.gg/HPUBuTGk)
 - [GOG Galaxy](https://www.gog.com/u/Phenex_1402)
 
-<p align="center">
+(<p align="center">
   <a href="https://github.com/ITainment-UIT-04"><img width="60%" height="auto" src="https://i.imgur.com/UhjXgRw.png"/></a>
-</p>
+</p>)
