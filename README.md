@@ -9,8 +9,7 @@
 ## **※ About Me**
 - I'm currently studying at [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
 - I studied at [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
-- I’m currently learning Machine Learning, AI and Deep Learning
-- I’m currently learning HTML, CSS, NodeJS and JavaScript
+- My learning background: Machine Learning, AI, Deep Learning, Java, Python, C/C++, C#, Apex, HTML, CSS, JavaScript
 - I'm interested in RPG games
 - Contact me: **thienphuoc.antares@gmail.com**
 - My organization: [ITainment](https://github.com/ITainment-UIT-04)
