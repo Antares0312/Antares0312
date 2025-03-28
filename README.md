@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://i.imgur.com/R98Vzzx.png"/></a>
+  <a><img width="30%" height="auto" src="https://1000logos.net/wp-content/uploads/2019/10/QUT-Logo.png"/></a>
 </p>
 
 
@@ -12,11 +12,9 @@
 - I’m currently learning Machine Learning, AI and Deep Learning
 - I’m currently learning HTML, CSS, NodeJS and JavaScript
 - I'm interested in RPG games
-- Contact me: **overlimit090@gmail.com** or **thienphuoc.antares@gmail.com**
-- Phone number: +61493766471 
+- Contact me: **thienphuoc.antares@gmail.com**
 - My organization: [ITainment](https://github.com/ITainment-UIT-04)
-- Fun fact: I'm interested in reading novels and listening to music every night!
-
+- Fun fact: I enjoy reading novels and listening to music every night!
 
 
 ## **※ Languages and Tools**
@@ -29,8 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antares3102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ## **※ Connect with me**
-- [Facebook](https://www.facebook.com/Antares.XT)
-- [Instagram](https://www.instagram.com/antares.31)
 - [Github](https://github.com/Antares3102)
 - [Linkedin](https://www.linkedin.com/in/mai-v%C4%83n-thi%C3%AAn-ph%C6%B0%E1%BB%9Bc-67489a243/)
 - [Reddit](https://www.reddit.com/user/Amphere-XT)
