@@ -16,8 +16,8 @@
 - Fun fact: I enjoy reading novels and listening to music every night!
 
 ## **※ My Github Stats**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antares3102)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antares3102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antares0312)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antares0312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ## **※ Connect with me**
 - [Github](https://github.com/Antares3102)
