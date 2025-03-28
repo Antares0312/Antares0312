@@ -12,7 +12,6 @@
 - My learning background: Machine Learning, AI, Deep Learning, Java, Python, C/C++, C#, Apex, HTML, CSS, JavaScript
 - I'm interested in RPG games
 - Contact me: **thienphuoc.antares@gmail.com**
-- My organization: [ITainment](https://github.com/ITainment-UIT-04)
 - Fun fact: I enjoy reading novels and listening to music every night!
 
 ## **※ My Github Stats**
