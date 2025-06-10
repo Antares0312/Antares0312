@@ -11,7 +11,7 @@
 - I'm currently studying at [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
 - I studied at [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
 - My learning background: Machine Learning, AI, Deep Learning, Java, Python, C/C++, C#, Apex, HTML, CSS, JavaScript
-- I'm interested in RPG games
+- I'm interested in Action, MMORPG, RPG, Role-Playing, AAA games
 - Contact me: **thienphuoc.antares@gmail.com**
 - Fun fact: I enjoy reading novels and listening to music every night!
 
