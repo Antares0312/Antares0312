@@ -7,8 +7,8 @@
 <h2 align="center">✓ Bachelor of Computer Science.</h2>
 
 ## **※ About Me**
-- Full Name: Van Thien Phuoc Mai
-- Preferred Name: Lucas Mai
+- Full Name: *Van Thien Phuoc Mai*
+- Preferred Name: *Lucas Mai*
 - I'm currently studying at [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
 - I studied at [University of Information Technology, VNU-HCM](https://www.uit.edu.vn/)
 - My learning background: Machine Learning, AI, Deep Learning, Java, Python, C/C++, C#, Apex, HTML, CSS, JavaScript
